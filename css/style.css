@@ -27,8 +27,12 @@ body {
 	background-color: #212343; 
 }
 
-.header img {
-	margin: 33px;
+.header .logo {
+	color: #FFF;
+	margin: 0 50px;
+	font-family: bold;
+	font-size: 35px;
+	line-height: 90px;
 }
 
 .container-banner {
